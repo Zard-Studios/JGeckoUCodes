@@ -9,8 +9,7 @@ i file necessari da scaricare sono in questo repositorio, quindi non c'è proble
 
 # Installazione
 
-come avevo detto prima, per usare i codici bisogna scaricare:
-  • [Java](https://www.java.com/it/download/manual.jsp) e poi i file del repositorio.
+come avevo detto prima, per usare i codici bisogna scaricare [Java](https://www.java.com/it/download/manual.jsp) e poi i file del repositorio.
 
 Fatto tutto ciò bisogna spostare il file .elf nella libreria homebrew, se hai difficolta c'è questo tutorial --> [Tutorial](https://youtu.be/PenJ_to-NFo).
 se non hai l'homebrew guarda questo video in italiano --> [Tutorial](https://youtu.be/ea199ICek7A).

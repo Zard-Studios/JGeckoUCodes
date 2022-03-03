@@ -16,6 +16,10 @@ Fatto tutto ciò bisogna spostare il file .elf nella libreria homebrew, se hai d
 se non hai l'homebrew guarda questo video in italiano --> [Tutorial](https://youtu.be/ea199ICek7A).
 
 poi esegui il file JGeckoU.jar con java, aprendolo avrete una schermata del tutto sconosciuta, lasciate tutto così e andate nella vostra WiiU, aprite l'Homebrew Launcher (in questo caso chi ha Tiramisu lo avvia nel centro creazioni Mii), e in seguito avviate tcpgecko.elf, dopo questo processo c'è questa schermata. ![schermata](https://i.ibb.co/7kMcTX8/Schermata-2022-03-03-alle-19-55-48.png)
-cliccate il tasto A, fatto ciò tornerai nella schermata Menu WiiU.
+ora sul tuo PC hai JGeckoU.jar aperto, nella schermata iniziale hai questa schermata. ![schermata](https://i.ibb.co/yy6nd9D/Schermata-2022-03-03-alle-21-01-43.png) 
+sotto hai la barra rossa, dove puoi mettere l'IP della Wii U. ![schermata](https://i.ibb.co/kX3t53C/Schermata-2022-03-03-alle-19-55-48.png) poi cliccate il tasto A della Wii U, fatto ciò tornerai nella schermata Menu WiiU.
 infine hai applicato il processo nella RAM (quando riavvii lo Wii U, devi ripetere questo processo con hombrew launcher).
-ora sul tuo PC hai JGeckoU.jar aperto, nella schermata iniziale hai questa schermata. [Schermata](https://i.ibb.co/yy6nd9D/Schermata-2022-03-03-alle-21-01-43.png) 
+ora segui questo [video](https://youtu.be/Gy_uFg2mrOk?t=128) per applicare codici.
+nel video che hai visto avvolte i codici nella sezione Memori Viewer (di jGeckoU) non sono sempre visibili.
+
+###### Complimenti, hai finito l'installazione!

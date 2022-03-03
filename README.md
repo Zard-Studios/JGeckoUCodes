@@ -16,4 +16,4 @@ come avevo detto prima, per usare i codici bisogna scaricare:
 Fatto tutto ciò bisogna spostare il file .elf nella libreria homebrew, se hai difficolta c'è questo tutorial --> [Tutorial](https://youtu.be/PenJ_to-NFo).
 se non hai l'homebrew guarda questo video in italiano --> [Tutorial](https://youtu.be/ea199ICek7A).
 
-poi esegui il file JGeckoU.jar con java, aprendolo avrete una schermata del tutto sconosciuta, lasciate tutto così e andate nella vostra WiiU, aprite l'Homebrew Launcher (in questo caso chi ha Tiramisu lo avvia su centro creazioni Mii), e in seguito avviate tcpgecko.elf, dopo questo processo c'è questa ![schermata](https://imgur.com/a/sUqSHHx).
+poi esegui il file JGeckoU.jar con java, aprendolo avrete una schermata del tutto sconosciuta, lasciate tutto così e andate nella vostra WiiU, aprite l'Homebrew Launcher (in questo caso chi ha Tiramisu lo avvia su centro creazioni Mii), e in seguito avviate tcpgecko.elf, dopo questo processo c'è questa ![schermata](https://imgur.com/gallery/sUqSHHx).

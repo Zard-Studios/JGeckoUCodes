@@ -4,6 +4,8 @@ Benvenuti nel repositorio italiano di JGeckoU.
  
 # Installazione
 per aprire la pagina delle installazioni [fai click qui](https://github.com/Zard-Studios/JGeckoUCodes/blob/JGeckoU-installer/Installazione.md)
+## Codici
+- codici disponibili
 
 # Problemi
 se hai riscontrato qualche problema fammelo sapere su issue, oppure cerca su questa lista.
